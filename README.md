@@ -8,7 +8,7 @@
 <a href="https://github.com/ittsjoao/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ittsjoao&show_icons=true&theme=radical&include_all_commits=true" />
 </a>
-<a href="https://github.com/ittjoao/convoychat">
+<a href="https://github.com/ittsjoao/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ittsjoao&show_icons=true&theme=radical&size_&size_weight=1&count_weight=0" />
 </a>
 
