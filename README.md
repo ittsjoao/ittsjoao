@@ -1,6 +1,6 @@
 ## Olá você! Sou o João Paulo.
 
-- 🔭 A procura de uma oportunidade de ingressar no mercado de trabalho
+- 🔭 Trabalhando com automações / melhorias de software
 - 🌱 Estudando Java
 - 💬 Entre em contato pelo email: joao3mg17@gmail.com
 - 😄 Pronouns: Ele/Dele
