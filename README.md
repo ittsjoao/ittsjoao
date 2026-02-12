@@ -1,22 +1,32 @@
-## Olá você! Sou o João Paulo.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=371F76&height=120&section=header"/>
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=600&lines=Welcome+to+my+repository!;My+name+is+Jo%C3%A3o+Paulo;Dev+%26+SysAdmin;Learning+Java+%26+Software+Architecture)](https://git.io/typing-svg)
 
-- 💻 Dev & SysAdmin 
-- 📚 Estudando Java e arquitetura de software
-- 🚀 Em busca de evoluir como backend developer 
-- 💬 Entre em contato pelo email: joao3mg17@gmail.com
-
-
-[![Ittsjoao GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=ittsjoao&show_icons=true&theme=radical&hide_border=true&border_radius=10)](https://github.com/ittsjoao)
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Joao-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Joao-Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg">
-  <img align="center" alt="Joao-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Joao-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Joao-Debian" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg">
-  <img align="center" alt="Joao-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg">
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJ0OG1yYXN1amRxYWVwejVkeHQ1cWlwc2M2aTg2Y2RsbXQ5emhwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gFPxNhzEWdFCCRAqf0/giphy.gif" width="400px">
 </div>
+
+### Main skills:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=bc44ad&labelColor=0D1117" alt="Java">
+  <img src="https://img.shields.io/badge/Server%20Management-0D1117?style=for-the-badge&logo=linux&logoColor=bc44ad&labelColor=0D1117" alt="Server Management">
+  <img src="https://img.shields.io/badge/Automation-0D1117?style=for-the-badge&logo=githubactions&logoColor=bc44ad&labelColor=0D1117" alt="Automation">
+  <img src="https://img.shields.io/badge/Backend%20Development-0D1117?style=for-the-badge&logo=spring&logoColor=bc44ad&labelColor=0D1117" alt="Backend">
+</p>
+
+### Tools:
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" height="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" height="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40px" />
+</p>
+
  
  ##
 
@@ -33,7 +43,12 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ittsjoao/ittsjoao/output/github-contribution-grid-snake.svg">
 </picture>
 
+
+
 ## Projetos em Destaque
 
 [![Repo1](https://github-readme-stats-fast.vercel.app/api/pin/?username=ittsjoao&repo=projetoNotas&theme=radical&hide_border=true)](https://github.com/ittsjoao/projetoNotas)
 [![Repo2](https://github-readme-stats-fast.vercel.app/api/pin/?username=ittsjoao&repo=manuais&theme=radical&hide_border=true)](https://github.com/ittsjoao/manuais)
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=371F76&height=120&section=footer"/>
