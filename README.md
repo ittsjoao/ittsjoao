@@ -47,7 +47,7 @@
 
 ## Projetos em Destaque
 
-[![Repo1](https://github-readme-stats-fast.vercel.app/api/pin/?username=ittsjoao&repo=manuais&theme=radical&hide_border=true)]([https://github.com/ittsjoao/manuais](https://github.com/ittsjoao/ext_digisac))
+[![Repo1](https://github-readme-stats-fast.vercel.app/api/pin/?username=ittsjoao&repo=ext_digisac&theme=radical&hide_border=true)](https://github.com/ittsjoao/ext_digisac)
 [![Repo2](https://github-readme-stats-fast.vercel.app/api/pin/?username=ittsjoao&repo=projetoNotas&theme=radical&hide_border=true)](https://github.com/ittsjoao/projetoNotas)
 [![Repo3](https://github-readme-stats-fast.vercel.app/api/pin/?username=ittsjoao&repo=manuais&theme=radical&hide_border=true)](https://github.com/ittsjoao/manuais)
 
