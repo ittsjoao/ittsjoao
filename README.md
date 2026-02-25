@@ -47,8 +47,8 @@
 
 ## Projetos em Destaque
 
-[![Repo1](https://github-readme-stats-fast.vercel.app/api/pin/?username=ittsjoao&repo=projetoNotas&theme=radical&hide_border=true)](https://github.com/ittsjoao/projetoNotas)
-[![Repo2](https://github-readme-stats-fast.vercel.app/api/pin/?username=ittsjoao&repo=manuais&theme=radical&hide_border=true)](https://github.com/ittsjoao/manuais)
-
+[![Repo1](https://github-readme-stats-fast.vercel.app/api/pin/?username=ittsjoao&repo=manuais&theme=radical&hide_border=true)]([https://github.com/ittsjoao/manuais](https://github.com/ittsjoao/ext_digisac))
+[![Repo2](https://github-readme-stats-fast.vercel.app/api/pin/?username=ittsjoao&repo=projetoNotas&theme=radical&hide_border=true)](https://github.com/ittsjoao/projetoNotas)
+[![Repo3](https://github-readme-stats-fast.vercel.app/api/pin/?username=ittsjoao&repo=manuais&theme=radical&hide_border=true)](https://github.com/ittsjoao/manuais)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=371F76&height=120&section=footer"/>
