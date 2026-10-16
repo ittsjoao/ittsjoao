@@ -10,6 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=bc44ad&labelColor=0D1117" alt="Java">
+  <img src="https://img.shields.io/badge/Rust-0D1117?style=for-the-badge&logo=rust&logoColor=bc44ad&labelColor=0D1117" alt="Rust">
   <img src="https://img.shields.io/badge/Server%20Management-0D1117?style=for-the-badge&logo=linux&logoColor=bc44ad&labelColor=0D1117" alt="Server Management">
   <img src="https://img.shields.io/badge/Automation-0D1117?style=for-the-badge&logo=githubactions&logoColor=bc44ad&labelColor=0D1117" alt="Automation">
   <img src="https://img.shields.io/badge/Backend%20Development-0D1117?style=for-the-badge&logo=spring&logoColor=bc44ad&labelColor=0D1117" alt="Backend">
@@ -18,17 +19,17 @@
 ### Tools:
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40px" />
-  <img src="https://devicon-website.vercel.app/api/github/original.svg?color=%23FFFFFF" height="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" height="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" height="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ IDEA" />
+  <img src="https://cdn.simpleicons.org/zedindustries/111111/ffffff" height="40" alt="Zed" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.simpleicons.org/github/181717/ffffff" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" height="40" alt="Windows" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" height="40" alt="Ubuntu" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" alt="Docker" />
 </p>
 
- 
- ##
+##
 
 <div> 
   <a href="https://instagram.com/itts.joao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -47,8 +48,13 @@
 
 ## Projetos em Destaque
 
-[![Repo1](https://github-readme-stats-fast.vercel.app/api/pin/?username=ittsjoao&repo=ext_digisac&theme=radical&hide_border=true)](https://github.com/ittsjoao/ext_digisac)
-[![Repo2](https://github-readme-stats-fast.vercel.app/api/pin/?username=ittsjoao&repo=projetoNotas&theme=radical&hide_border=true)](https://github.com/ittsjoao/projetoNotas)
-[![Repo3](https://github-readme-stats-fast.vercel.app/api/pin/?username=ittsjoao&repo=manuais&theme=radical&hide_border=true)](https://github.com/ittsjoao/manuais)
+<p align="center">
+  <a href="https://github.com/ittsjoao/ai-docs">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ittsjoao&repo=ai-docs&theme=radical&hide_border=true&description_lines_count=2" alt="ai-docs" />
+  </a>
+  <a href="https://github.com/ittsjoao/recycle-net">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ittsjoao&repo=recycle-net&theme=radical&hide_border=true&description_lines_count=2" alt="recycle-net" />
+  </a>
+</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=371F76&height=120&section=footer"/>
